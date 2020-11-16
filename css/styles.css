@@ -10104,12 +10104,32 @@ section.resume-section .resume-section-content {
   color: #E34C26
 }
 
+.badge-html {
+  background-color: #E34C26;
+}
+
 .fa-css3-alt {
-  color: #264DE4
+  color: #264DE4;
+}
+
+.badge-css {
+  background-color: #264DE4;
 }
 
 .fa-js-square {
-  color: #F0DB4F
+  color: #F0DB4F;
+}
+
+.badge-js {
+  background-color: #F0DB4F;
+}
+
+.fa-bootstrap {
+  color: #563D7C;
+}
+
+.badge-bootstrap {
+  background-color: #563D7C;
 }
 
 .fa-react {
