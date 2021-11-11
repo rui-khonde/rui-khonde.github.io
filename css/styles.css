@@ -10173,6 +10173,14 @@ section.resume-section .resume-section-content {
   color: #F1502F
 }
 
+#fa-github {
+  color: #211F1F
+}
+
+#fa-gitlab {
+  color: #FC6D26
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
