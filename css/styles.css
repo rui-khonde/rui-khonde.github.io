@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #9575cd;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #9575cd !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #9575cd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10133,20 +10133,16 @@ section.resume-section .resume-section-content {
   background-color: #563D7C;
 }
 
-#fa-react {
-  color: #61DBFB;
+#fa-spring {
+  color: #8BC34A;
 }
 
 .badge-react {
   background-color: #61DBFB;
 }
 
-#fa-angular {
-  color: #DD1B16;
-}
-
-#fa-node-js {
-  color: #3C873A;
+#fa-jenkins {
+  color: black;
 }
 
 #fa-java {
@@ -10157,17 +10153,12 @@ section.resume-section .resume-section-content {
   background-color: #F89820;
 }
 
-#fa-android {
-  color: #3DDC84;
+#fa-python {
+  color: #ffde57;
 }
 
-.badge-android {
-  background-color: #3DDC84;
-}
-
-
-#fa-php {
-  color: #8993BE
+.badge-python {
+  background-color: #ffde57;
 }
 
 #fa-git-alt {
@@ -10180,6 +10171,14 @@ section.resume-section .resume-section-content {
 
 #fa-gitlab {
   color: #FC6D26
+}
+
+#fa-angular {
+  color: #dd1b16
+}
+
+#fa-docker {
+  color: #0db7ed
 }
 
 @media (min-width: 768px) {
